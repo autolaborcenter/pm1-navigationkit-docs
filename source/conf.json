@@ -7,7 +7,7 @@
 		"uri 格式 3 - 绝对地址：http://www.baidu.com",
 		"_readme 本身并没有什么软用"
 	],
-	"index": "version_two/introduction/overview/doc",
+	"index": "user_guide/pre_work/receipt",
 	"rewrite": {
 
 	},
@@ -34,43 +34,43 @@
 				"items": [
 					{
 						"name": "收货指南",
-						"uri": "/user_guide/pre_work/receipt"
+						"uri": "user_guide/pre_work/receipt"
 					},
 					{
 						"name": "组装",
-						"uri": "/user_guide/pre_work/assembly"
+						"uri": "user_guide/pre_work/assembly"
 					},
 					{
 						"name": "连接设备",
 						"items": [
 							{
 								"name": "配置网络",
-								"uri": "/user_guide/network/setting"
+								"uri": "user_guide/network/setting"
 							},
 							{
 								"name": "远程连接",
-								"uri": "/user_guide/network/connect"
+								"uri": "user_guide/network/connect"
 							}
 						]
 					},
 					{
 						"name": "测试设备",
-						"uri": "/user_guide/quick_start/test"
+						"uri": "user_guide/quick_start/test"
 					},
 					{
 						"name": "使用",
 						"items":[
 								{
 									"name": "建图导航",
-									"uri": "/user_guide/quick_start/slam"
+									"uri": "user_guide/quick_start/slam"
 								},
 								{
 									"name": "定位巡迹",
-									"uri": "/user_guide/location/guide"
+									"uri": "user_guide/location/guide"
 								},
 								{
 									"name": "远程监控",
-									"uri": "/user_guide/quick_start/monitor"
+									"uri": "user_guide/quick_start/monitor"
 								}
 						],
 					},
@@ -79,29 +79,29 @@
 						"items":[
 								{
 									"name": "目录",
-									"uri": "/commom/q_a/doc"
+									"uri": "common/q_a/doc"
 								},
 								{
 									"name": "设备",
-									"uri": "/commom/q_a/doc1"
+									"uri": "common/q_a/doc1"
 								},
 								{
 									"name": "建图导航",
-									"uri": "/commom/q_a/doc2"
+									"uri": "common/q_a/doc2"
 								},
 								{
 									"name": "定位巡迹",
-									"uri": "/commom/q_a/doc3"
+									"uri": "common/q_a/doc3"
 								}
 						],
 					},
 					{
 						"name": "安装操作系统",
-						"uri": "/commom/install_os/doc"
+						"uri": "common/install_os/doc"
 					},
 					{
 						"name": "设备参考资料",
-						"uri": "/commom/reference/doc"
+						"uri": "common/reference/doc"
 					}
 				]
 			}
