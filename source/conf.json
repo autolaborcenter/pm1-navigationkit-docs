@@ -7,7 +7,7 @@
 		"uri 格式 3 - 绝对地址：http://www.baidu.com",
 		"_readme 本身并没有什么软用"
 	],
-	"index": "user_guide/pre_work/receipt",
+	"index": "user_guide/pre_work/guide",
 	"rewrite": {
 
 	},
@@ -32,6 +32,10 @@
 				"name": "Autolabor PM1 套件",
 				"isOpen": false,
 				"items": [
+					{
+						"name": "引导",
+						"uri": "user_guide/pre_work/guide"
+					},
 					{
 						"name": "收货指南",
 						"uri": "user_guide/pre_work/receipt"
