@@ -1,4 +1,4 @@
 ## 引导
 
-![](imgs/guide.png)
+![](imgs/guide.jpg)
 
