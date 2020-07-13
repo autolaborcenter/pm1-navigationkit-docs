@@ -4,7 +4,7 @@
 
 收到货后请不要急于签收，先检查外包装<b style="color:red;">有无破损</b>，如包装破损或贴于外包装上的防震标签感应器显示为红色，请拍照为证，并与快递员一同开箱验货，<b style="color:red;">确认无误</b>后再签收，如需帮助可联系 Autolabor 客户服务平台。
 
-![](imgs/slamSet-label.png)
+![](imgs/label.png)
 
 # 清点
 
