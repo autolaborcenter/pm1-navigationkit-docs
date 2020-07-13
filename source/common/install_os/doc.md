@@ -4,7 +4,7 @@
 
 ## 准备
 
-* Autolabor OS 镜像盘 * 1
+* Autolabor OS  镜像盘 * 1
 
 > AutolaborOS 镜像[下载](http://www.autolabor.com.cn/download)。
 

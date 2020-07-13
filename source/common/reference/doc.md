@@ -1,10 +1,8 @@
 # 设备参考资料
 
-* [思岚 A2 激光雷达](https://www.slamtec.com/cn/Support#rplidar-a2)
+* [PicoZense DCAM710](https://www.picozense.com/cn/sdk.html)
 
 * [砝石 FS-D10 激光雷达](http://www.faselase.com/chanpinshuomingshuxiazai.html)
-
-* [瑞芬星通 AH100B 惯导](http://rion-star.com/cpzx/gxdh/AH100B/2018/0204/112.html)
 
 * [技嘉 GA-AB350N-Gaming WiFi 主板](https://www.gigabyte.cn/Motherboard/GA-AB350N-Gaming-WIFI-rev-10)
 
