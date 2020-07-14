@@ -46,17 +46,16 @@
 					},
 					{
 						"name": "连接设备",
-						"uri": "user_guide/network/connect"
-						// "items": [
-						// 	{
-						// 		"name": "配置网络",
-						// 		"uri": "user_guide/network/setting"
-						// 	},
-						// 	{
-						// 		"name": "远程连接",
-						// 		"uri": "user_guide/network/connect"
-						// 	}
-						// ]
+						"items": [
+							{
+								"name": "配置网络",
+								"uri": "user_guide/network/setting"
+							},
+							{
+								"name": "远程连接",
+								"uri": "user_guide/network/connect"
+							}
+						]
 					},
 					{
 						"name": "测试设备",
