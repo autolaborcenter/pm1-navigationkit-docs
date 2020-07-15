@@ -25,7 +25,7 @@ PM1 导航套件提供 `内网` 与 `外网`两种方式进行远程连接。
 
 ## 结构图
 
-![](connect.png/.png)
+![](imgs/connect.png)
 
 
 
