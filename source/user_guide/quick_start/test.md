@@ -14,7 +14,7 @@
 
 ![](imgs/test.png)
 
-注：进行定位标签测试前必须先[搭建定位系统](/usedoc/pmNavgationkit/location/guide/doc)。
+注：进行定位标签测试前必须先[搭建定位系统](/usedoc/pmNavigationkit/user_guide/location/guide/doc)。
 
 ## 底盘测试
 

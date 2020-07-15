@@ -40,7 +40,7 @@
 
     ![](imgs/network-11.png)
 
-    启动后得到远程桌面地址：cloud.autolabor.com.cn 端口：40010
+    启动后得到远程桌面地址：cloud.autolabor.com.cn 端口：xxxxx
 
     请记住该地址，之后在使用远程桌面连接时会用到。
 
@@ -56,7 +56,7 @@
     
     ![](imgs/network-5.png)
 
-    启动后得到远程命令地址： cloud.autolabor.com.cn 端口：40008
+    启动后得到远程命令地址： cloud.autolabor.com.cn 端口：xxxxx
 
     ![](imgs/network-6.png)
 
@@ -85,12 +85,12 @@
 
 #### 启动
 
-得到的外网访问远程桌面地址：cloud.autolabor.com.cn 端口:40011
+得到的外网访问远程桌面地址：cloud.autolabor.com.cn 端口:xxxxx
 
 1. 打开 NoMachine 软件，点击 `new` 新建连接
 ![](imgs/network-36.png)
 
-注：如之前已经有连接，则不必新增，右键设置修改端口号port即可。
+注：如之前曾经连接过，列表中已有设备，则不必新增，右键设置修改地址 Host 与端口号 Port 即可。
 
 2. 默认协议 Protocol 为 `NX` ，点击 `continue`
 ![](imgs/network-27.png)
@@ -128,7 +128,7 @@
 
 此处用 windows 下的 putty 介绍，SSH 的连接方式。
 
-1. 打开 putty 软件，Host: `cloud.autolabor.com.cn` Port: `40008`，`open` 打开。
+1. 打开 putty 软件，Host: `cloud.autolabor.com.cn` Port: `xxxxx`，`open` 打开。
 
 ![](imgs/network-8.png)
 
