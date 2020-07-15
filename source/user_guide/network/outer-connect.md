@@ -85,7 +85,7 @@
 
 #### 启动
 
-得到的外网访问-远程桌面地址：`cloud.autolabor.com.cn:40011`
+得到的外网访问远程桌面地址：cloud.autolabor.com.cn 端口:40011
 
 1. 打开 NoMachine 软件，点击 `new` 新建连接
 ![](imgs/network-36.png)
