@@ -20,8 +20,8 @@ PM1 导航套件提供 `内网` 与 `外网`两种方式进行远程连接。
 
 ## 选择相应的网络连接
 
-<p><a href="/usedoc/pmNavigationkit/">内网</a></p>
-<p><a href="/usedoc/pmNavigationkit/">外网</a></p>
+<p><a href="/usedoc/pmNavigationkit/user_guide/network/inner-connect">内网</a></p>
+<p><a href="/usedoc/pmNavigationkit/user_guide/network/outer-connect">外网</a></p>
 
 
 
