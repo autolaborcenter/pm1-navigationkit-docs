@@ -81,9 +81,11 @@
 #### 安装
 
 ![](imgs/network-16.png)
+
 ![](imgs/network-17.png)
 
-####　启动
+
+#### 启动
 
 得到的外网访问-远程桌面地址：`cloud.autolabor.com.cn:40011`
 
