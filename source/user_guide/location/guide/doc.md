@@ -303,8 +303,6 @@ Channel -> 0
 2. 如重新录制路径会清除上一次已保存的地图。
 
 
-[>>常见问题](/usedoc/pmNavigationkit/common/q_a/doc3)
-
 
 ***
 

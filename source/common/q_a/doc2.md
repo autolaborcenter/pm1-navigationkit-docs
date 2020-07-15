@@ -5,9 +5,6 @@
 
 <a href="/usedoc/navigationKit2/common/q_a/doc2#1">1. 打开开始建图，RVIZ中只有一个白色的车，左侧 RobotModel 报错</a>
 <a href="/usedoc/navigationKit2/common/q_a/doc2#2">2. 打开开始建图，RVIZ中只有一个黄色的车，左侧警告 No map receievd</a>
-<a href="/usedoc/navigationKit2/common/q_a/doc2#3">3. 键盘控制AP1行走时，AP1动作异常，动一下停一下</a>
-<a href="/usedoc/navigationKit2/common/q_a/doc2#4">4. 键盘控制，AP1一动不动</a>
-<a href="/usedoc/navigationKit2/common/q_a/doc2#5">5. AP1不受键盘控制、失控</a>
 <a href="/usedoc/navigationKit2/common/q_a/doc2#6">6. 如何判断自己的建图质量</a>
 <a href="/usedoc/navigationKit2/common/q_a/doc2#7">7. 如何建出高质量的地图/建图效果不佳/地图构建要点</a>
 <a href="/usedoc/navigationKit2/common/q_a/doc2#8">8. 建好的地图存放在哪里</a>
@@ -24,7 +21,6 @@
 <a href="/usedoc/navigationKit2/common/q_a/doc2#nav5">5. 导航过程中，机器人走的太慢，速度能再快点吗？</a>
 <a href="/usedoc/navigationKit2/common/q_a/doc2#nav6">6. （接上问）我一定要提高速度，在哪里改参数？</a>
 <a href="/usedoc/navigationKit2/common/q_a/doc2#nav7">7. 导航时，如何调整机器人可通过的宽度/让机器人离障碍物可以更近一点</a>
-<a href="/usedoc/navigationKit2/common/q_a/doc2#nav8">8. 机器人导航到达这个目标点是以什么作为参考的呢？这个位置又是如何确定的呢？</a>
 
 
 
@@ -277,13 +273,3 @@ min_obstacle_dist:0.4
 虚线圈越小，离障碍物就越近，可过的宽度越窄，但不建议修改太小。
 
 ***
-
-<h5 id="nav8">8. 机器人导航到达这个目标点是以什么作为参考的呢？这个位置又是如何确定的呢？</h5>
-
-在map坐标系下，机器人base_link坐标系原点，到达目标点位置，即视为到达目标点。
-
-**Autolabor Pro1 base_link坐标系**
-
-以机器人四轮接触面为X-Y平面，四轮轴心连线的点做垂线，与x-y平面的交点为base_link坐标系原点，车头朝向方向为X轴，正左方向为Y轴，向上为Z轴。
-
-![](imgs/info8.jpg)

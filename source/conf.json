@@ -78,27 +78,27 @@
 								}
 						],
 					},
-					{
-						"name": "常见问题",
-						"items":[
-								{
-									"name": "目录",
-									"uri": "common/q_a/doc"
-								},
-								{
-									"name": "设备",
-									"uri": "common/q_a/doc1"
-								},
-								{
-									"name": "建图导航",
-									"uri": "common/q_a/doc2"
-								},
-								{
-									"name": "定位巡迹",
-									"uri": "common/q_a/doc3"
-								}
-						],
-					},
+					// {
+					// 	"name": "常见问题",
+					// 	"items":[
+					// 			{
+					// 				"name": "目录",
+					// 				"uri": "common/q_a/doc"
+					// 			},
+					// 			{
+					// 				"name": "设备",
+					// 				"uri": "common/q_a/doc1"
+					// 			},
+					// 			{
+					// 				"name": "建图导航",
+					// 				"uri": "common/q_a/doc2"
+					// 			},
+					// 			{
+					// 				"name": "定位巡迹",
+					// 				"uri": "common/q_a/doc3"
+					// 			}
+					// 	],
+					// },
 					{
 						"name": "安装操作系统",
 						"uri": "common/install_os/doc"
