@@ -54,9 +54,10 @@
 #### 安装
 
 ![](imgs/network-16.png)
+
 ![](imgs/network-17.png)
 
-####　启动
+#### 启动
 
 1. 打开 NoMachine 软件，会弹出引导页面，点击 `continue`
 
