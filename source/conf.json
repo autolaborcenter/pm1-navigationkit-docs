@@ -99,10 +99,10 @@
 					// 			}
 					// 	],
 					// },
-					{
-						"name": "安装操作系统",
-						"uri": "common/install_os/doc"
-					},
+					// {
+					// 	"name": "安装操作系统",
+					// 	"uri": "common/install_os/doc"
+					// },
 					{
 						"name": "设备参考资料",
 						"uri": "common/reference/doc"
