@@ -33,6 +33,10 @@
 				"isOpen": false,
 				"items": [
 					{
+						"name": "介绍",
+						"uri": "user_guide/intro/doc"
+					},
+					{
 						"name": "引导",
 						"uri": "user_guide/pre_work/guide"
 					},
