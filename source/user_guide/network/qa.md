@@ -5,10 +5,11 @@
 #### 远程桌面软件 NoMachine
 
 1. 如何调整分辨率与画质
-2. 报错：`The connection with the sever was lost`
-3. 报错：`Could not connect to the sever. Error is 108: Connection reset by peer`
-4. 报错：`A connection timeout has occurred while trying to connect ‘cloud.autolabor.com.cn' on port 'XXXXX'. The issue could either by a networking problem.....`
-5. 远程连接成功后，一直显示 `NIVIDIA`的图标，卡住了
+2. 如何远程传输文件
+3. 报错：`The connection with the sever was lost`
+4. 报错：`Could not connect to the sever. Error is 108: Connection reset by peer`
+5. 报错：`A connection timeout has occurred while trying to connect ‘cloud.autolabor.com.cn' on port 'XXXXX'. The issue could either by a networking problem.....`
+6. 远程连接成功后，一直显示 `NIVIDIA`的图标，卡住了
 
 
 ***
@@ -36,15 +37,19 @@
 
 ![](imgs/network-39.png)
 
+2. 如何远程传输文件
 
-2. 报错：`The connection with the sever was lost`
+![](imgs/network-53.png)
+
+
+3. 报错：`The connection with the sever was lost`
 
 请检查，是否连接上机器人 Wifi 。
 
 ![](imgs/network-23.png)
 
 
-3.报错：`Could not connect to the sever. Error is 108: Connection reset by peer`
+4. 报错：`Could not connect to the sever. Error is 108: Connection reset by peer`
 
 远程连接服务已断开，可能原因是：
 
@@ -62,7 +67,7 @@
 ![](imgs/network-33.png)
 
 
-4. 报错：`A connection timeout has occurred while trying to connect ‘cloud.autolabor.com.cn' on port 'XXXXX'. The issue could either by a networking problem.....`
+5. 报错：`A connection timeout has occurred while trying to connect ‘cloud.autolabor.com.cn' on port 'XXXXX'. The issue could either by a networking problem.....`
 
 该端口无法连接，常见于：
 
@@ -78,7 +83,7 @@
 
 ![](imgs/network-50.png)
 
-5. 远程连接成功后，一直显示 `NIVIDIA`的图标，卡住了
+6. 远程连接成功后，一直显示 `NIVIDIA`的图标，卡住了
 
 ![](imgs/network-51.png)
 
