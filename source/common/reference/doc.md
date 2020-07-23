@@ -9,3 +9,5 @@
 * [华擎 DeskMini A300 准系统](https://www.asrock.com/nettop/AMD/DeskMini%20A300%20Series/index.cn.asp)
 
 * [AMD Ryzen 3 2200G CPU](https://www.amd.com/zh-hans/support/apu/amd-ryzen-processors/amd-ryzen-3-desktop-processors-radeon-vega-graphics/amd-ryzen-3-0)
+
+* [定位标签使用手册]()
