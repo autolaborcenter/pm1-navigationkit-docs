@@ -10,4 +10,4 @@
 
 * [AMD Ryzen 3 2200G CPU](https://www.amd.com/zh-hans/support/apu/amd-ryzen-processors/amd-ryzen-3-desktop-processors-radeon-vega-graphics/amd-ryzen-3-0)
 
-* [定位标签使用手册]()
+* [定位标签使用手册](http://download.autolabor.com.cn/File/marvelmind_navigation_system_manual.pdf)
