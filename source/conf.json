@@ -77,6 +77,10 @@
 						"name": "使用",
 						"items":[
 								{
+									"name": "远程控制",
+									"uri": "user_guide/quick_start/pm1_control"
+								},
+								{
 									"name": "建图导航",
 									"uri": "user_guide/quick_start/slam"
 								},
