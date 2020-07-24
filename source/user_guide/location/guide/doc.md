@@ -201,6 +201,8 @@ Channel -> 0
 
 进入桌面测试文件夹，点击标签测试，查看 RVIZ 中是否有紫色的点，如有数据则表示连接正常。
 
+![](imgs/tag_test.png)
+
 ##### 常见问题：
 
 测试时没有显示紫色数据
@@ -215,9 +217,9 @@ Channel -> 0
  
 3. 打开 terminal，执行以下命令内容，查看是否有 "hub_7" 这个设备
 
-  `$ ll  /dev/hub_*`
+  `ll /dev | grep ttyUSB`
 
-  如无 "hub_7"，则检查：
+  * 如无 "hub_7"，则检查：
 
   + 检查车载定位标签的数据线是否插在 USB-Hub 的指定接口上，Hub 指示灯是否亮着，数据线是否插紧
 
@@ -226,6 +228,14 @@ Channel -> 0
   如以上检查都正常，拔插定位标签数据线，在 terminal 中执行以下命令内容，将打出日志从后往前翻，查看是否有红色报错，将报错信息截图发送给客服
 
   `$ dmesg`
+
+  * 如有 "hub_7"，则记住该名称对应的 ttyUSB* 设备名
+
+    + 打开terminal 执行  `sudo apt-get install cutecom ` 下载软件，密码 `autolabor`
+    + 下载完毕后，打开 cutecom 软件，打开刚刚记住的 `ttyUSB*` 设备，勾选 HEX，波特率 `115200`，查看是否有数据发送
+
+      ![](imgs/track_3.png)
+
 
 ***
 
@@ -240,7 +250,7 @@ Channel -> 0
  
 打开 terminal，执行以下命令内容，查看是否有 "hub_4" 与/或 "hub_5" 这两个设备
 
-  `$ ll  /dev/hub_*`
+  `ll /dev | grep ttyUSB`
 
   * 如 "hub_4"/"hub_5" 则检查 USB-Hub 上 4/5 号 Hub 口上，Hub 指示灯是否亮着，数据线是否插紧
   * 检查 USB-HUB 的数据线是否插在主控单元主机的指定接口上
