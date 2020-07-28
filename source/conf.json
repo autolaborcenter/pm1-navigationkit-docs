@@ -34,7 +34,7 @@
 				"items": [
 					{
 						"name": "介绍",
-						"uri": "user_guide/intro/doc"
+						"uri": "intro/doc"
 					},
 					{
 						"name": "引导",
