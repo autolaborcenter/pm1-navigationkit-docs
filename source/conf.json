@@ -76,18 +76,31 @@
 					{
 						"name": "使用",
 						"items":[
-								{
-									"name": "远程控制",
-									"uri": "user_guide/quick_start/pm1_control"
-								},
-								{
-									"name": "建图导航",
-									"uri": "user_guide/quick_start/slam"
-								},
-								{
-									"name": "定位巡迹",
-									"uri": "user_guide/location/guide/doc"
-								}
+							{
+								"name": "远程控制",
+								"uri": "user_guide/quick_start/pm1_control"
+							},
+							{
+								"name": "建图导航",
+								"uri": "user_guide/quick_start/slam"
+							},
+							{
+								"name": "定位巡迹",
+								"items": [
+									{
+										"name": "快速上手",
+										"uri": "user_guide/location/guide/doc"
+									},
+									{
+										"name": "了解定位系统",
+										"uri": "user_guide/location/marvelmind/doc"
+									},
+									{
+										"name": "Dashboard 说明",
+										"uri": "user_guide/location/dashboard/doc"
+									}
+								]
+							}
 						]
 					},
 					// {
