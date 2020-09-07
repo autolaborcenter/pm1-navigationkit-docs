@@ -24,12 +24,8 @@
 			"overLevel": "9"
 		},
 		"items": [
-			{
-				"name": "Autolabor PM1",
-				"uri": "/usedoc/pm1/quick_start_tutorial/doc"
-			},
 			{		
-				"name": "Autolabor PM1 套件",
+				"name": "Autolabor PM1",
 				"isOpen": false,
 				"items": [
 					{
@@ -133,6 +129,10 @@
 						"uri": "common/reference/doc"
 					}
 				]
+			},
+			{
+				"name": "PM1 底盘",
+				"uri": "/usedoc/pm1/quick_start_tutorial/doc"
 			}
 		]
 	}
