@@ -1,6 +1,7 @@
 # 设备参考资料
 
 * [PicoZense DCAM710](https://www.picozense.com/cn/sdk.html)
+  * [备用地址](https://zh.vzense.com/products) 
 
 * [砝石 FS-D10 激光雷达](http://www.faselase.com/chanpinshuomingshuxiazai.html)
 
