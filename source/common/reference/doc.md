@@ -1,6 +1,6 @@
 # 设备参考资料
 
-* [PicoZense DCAM710](https://www.picozense.com/cn/sdk.html)
+* PicoZense/vzense DCAM710
   * [下载中心](https://zh.vzense.com/download)
   * [备用地址](https://zh.vzense.com/products) 
 
