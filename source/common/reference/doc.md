@@ -4,6 +4,14 @@
 
 * [砝石 FS-D10 激光雷达](http://www.faselase.com/chanpinshuomingshuxiazai.html)
 
+* Kinect V2
+
+  *  Windows：[资料一](https://www.microsoft.com/en-us/download/details.aspx?id=44561)/[资料二](https://developer.microsoft.com/en-us/windows/kinect/)/[资料三](https://docs.microsoft.com/en-us/previous-versions/windows/kinect/dn758761(v=ieb.10))
+
+* [定位标签使用手册](http://download.autolabor.com.cn/File/marvelmind_navigation_system_manual.pdf)
+
+* [JetsonNano](https://developer.nvidia.com/zh-cn/embedded/jetson-nano-developer-kit)
+
 * 华擎 DeskMini A300 准系统：
   * [产品详情](https://www.asrock.com/nettop/AMD/DeskMini%20A300%20Series/index.cn.asp)
   * [BIOS升级](https://www.asrock.com/Nettop/AMD/DeskMini%20A300%20Series/index.cn.asp#BIOS)
@@ -14,4 +22,4 @@
 
 * [AMD Ryzen 3 2200G CPU](https://www.amd.com/zh-hans/support/apu/amd-ryzen-processors/amd-ryzen-3-desktop-processors-radeon-vega-graphics/amd-ryzen-3-0)
 
-* [定位标签使用手册](http://download.autolabor.com.cn/File/marvelmind_navigation_system_manual.pdf)
+
