@@ -4,10 +4,6 @@
 
 * [砝石 FS-D10 激光雷达](http://www.faselase.com/chanpinshuomingshuxiazai.html)
 
-* 技嘉 GA-AB350N-Gaming WiFi 主板:
-  * [产品详情](https://www.gigabyte.cn/Motherboard/GA-AB350N-Gaming-WIFI-rev-10)
-  * [BIOS升级](https://www.gigabyte.cn/Motherboard/GA-AB350N-Gaming-WIFI-rev-10/support#support-dl-bios)
-
 * 华擎 DeskMini A300 准系统：
   * [产品详情](https://www.asrock.com/nettop/AMD/DeskMini%20A300%20Series/index.cn.asp)
   * [BIOS升级](https://www.asrock.com/Nettop/AMD/DeskMini%20A300%20Series/index.cn.asp#BIOS)
