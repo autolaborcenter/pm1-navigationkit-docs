@@ -1,6 +1,6 @@
 # 设备参考资料
 
-* PicoZense/vzense DCAM710 [下载中心](https://zh.vzense.com/download)/[备用地址](https://zh.vzense.com/products) 
+* PicoZense（vzense） DCAM710 [下载中心](https://zh.vzense.com/download)/[备用地址](https://zh.vzense.com/products) 
 
 * [砝石 FS-D10 激光雷达](http://www.faselase.com/chanpinshuomingshuxiazai.html)
 
